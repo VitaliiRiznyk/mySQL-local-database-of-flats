@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LESSSON 6 (Vsevolod).iml" filepath="$PROJECT_DIR$/.idea/LESSSON 6 (Vsevolod).iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc11/jdbc11/mvntest.iml" filepath="$PROJECT_DIR$/jdbc11/jdbc11/mvntest.iml" />
+    </modules>
+  </component>
+</project>
